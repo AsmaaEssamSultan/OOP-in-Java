@@ -3,6 +3,7 @@ import java.util.Scanner;
 class GuessGame{
   public static void main(String [] args){
 
+    // To choose the range of random number
     int min = 1;
     int max = 100;
 
@@ -11,9 +12,12 @@ class GuessGame{
 
     System.out.println("I have randomly chosen a number between [1, 100]");
     System.out.println("Try to guess it");
+
+    // Number of trail
     int trail = 10;
 
     Scanner scanner = new Scanner(System.in);
+
     for(int i = 0; i < trail; i++){
       System.out.println();
       System.out.println("You have " + (trail-i) + " guess(es) left");
