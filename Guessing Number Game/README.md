@@ -4,4 +4,4 @@ This project is a guessing game where the computer will generate a random number
 
 Outout of Game
 
-![alt text](https://github.com/AsmaaEssamSultan/Object-Oriented-Programming-in-Java/blob/main/Guessing%20Number20%Game/output.PNG)
+![alt text](https://github.com/AsmaaEssamSultan/Object-Oriented-Programming-in-Java/blob/main/Guessing%20Number%20Game/output.png)
